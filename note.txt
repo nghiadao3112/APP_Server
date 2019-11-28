@@ -1,0 +1,1 @@
+create a table to store image and a field to store count
